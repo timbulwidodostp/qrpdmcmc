@@ -1,0 +1,2 @@
+# qrpdmcmc
+Multi-Chain Adaptive Markov Chain Monte Carlo (MCMC) Estimation and Diagnostics for Quantile Regression for Panel Data with Non-Additive Fixed Effects (Powell, 2022) Use qrpdmcmc With STATA 19
