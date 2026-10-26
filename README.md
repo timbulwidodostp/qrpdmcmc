@@ -3,6 +3,8 @@ Multi-Chain Adaptive Markov Chain Monte Carlo (MCMC) Estimation and Diagnostics 
 
 Quantile Regression for Panel Data with Non-additive Fixed Effects Adaptive MCMC Estimation and Diagnostics Use qrpdmcmc With STATA 19
 
+https://www.youtube.com/watch?v=BWRY89qzcnE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
